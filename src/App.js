@@ -21,8 +21,8 @@ class App extends Component {
 
   render() {
     return (
-      <div>
-        <img src={biscoito} alt="biscoito" />
+      <div className='container'>
+        <img src={biscoito} alt="biscoito" className='img'/>
         <Botao />
       </div>
     )
