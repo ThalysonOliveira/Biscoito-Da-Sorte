@@ -17,3 +17,17 @@
     color: #dd7b22;
     align-items: center;
 }
+
+button{
+    font-size: 18px;
+    border: none;
+    border-radius: 13px;
+    padding: 10px;
+    outline: none;
+    cursor: pointer;
+    transition: background .2s;
+}
+
+button:hover{
+    background: #dd7b22;
+}
