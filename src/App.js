@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import biscoito from './assets/biscoito.png'
 
 class App extends Component{
   constructor(props){
@@ -9,8 +10,11 @@ class App extends Component{
   render(){
     return(
       <div>
-        
+        <img src={biscoito} alt="biscoito"/>
+      >
       </div>
     )
   }
 }
+
+export default App
