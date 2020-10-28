@@ -7,7 +7,9 @@ import biscoito from './assets/biscoito.png'
 class App extends Component {
   constructor(props) {
     super(props)
-    this.state = {}
+    this.state = {
+      textoFrase: ''
+    }
     this.frases =
       [
         'Siga os bons e aprenda com eles.',
