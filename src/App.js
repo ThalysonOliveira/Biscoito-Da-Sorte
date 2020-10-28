@@ -36,6 +36,7 @@ class App extends Component {
       <div className='container'>
         <img src={biscoito} alt="biscoito" className='img'/>
         <Botao nome="Abrir Biscoito" acaoBtn={this.quebrarBiscoito} textoFrase={this.state.textoFrase} />
+        <h3 className='textoFrase'>{this.state.textoFrase}</h3>
       </div>
     )
   }
