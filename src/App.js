@@ -25,14 +25,17 @@ class App extends Component {
   }
 
   quebrarBiscoito(){
-    alert('Clicou!')
+    let state = this.state
+    let numeroAleatorio = Math.floor(Math.random()*this.frases.length)
+    state.textoFrase = this.frases[numeroAleatorio]
+    this.setState(state)
   }
 
   render() {
     return (
       <div className='container'>
         <img src={biscoito} alt="biscoito" className='img'/>
-        <Botao nome="Abrir Biscoito" acaoBtn={this.quebrarBiscoito} />
+        <Botao nome="Abrir Biscoito" acaoBtn={this.quebrarBiscoito} textoFrase={this.state.textoFrase} />
       </div>
     )
   }
