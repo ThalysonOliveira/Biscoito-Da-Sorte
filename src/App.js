@@ -1,4 +1,6 @@
 import React, {Component} from 'react'
+import Botao from './components/Botao'
+
 import biscoito from './assets/biscoito.png'
 
 class App extends Component{
@@ -11,7 +13,7 @@ class App extends Component{
     return(
       <div>
         <img src={biscoito} alt="biscoito"/>
-      >
+        <Botao/>
       </div>
     )
   }
