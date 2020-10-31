@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 <a id="como-usar"></a>
 ## :zap: Como usar
 
-- Faça um clone desse repositório: `git clone https://github.com/ThalysonOliveira/Cronometro.git`
+- Faça um clone desse repositório: `git clone https://github.com/ThalysonOliveira/Biscoito-Da-Sorte.git`
 - Instale as dependências: `yarn` ou `npm install`
 - Inicie a aplicação:
    - Rode o comando de inicialização: `yarn start` ou `npm start`
