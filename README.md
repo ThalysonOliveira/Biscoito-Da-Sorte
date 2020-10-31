@@ -14,7 +14,7 @@
   
 </p>
 
-## 🚀 Tecnologia
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 
