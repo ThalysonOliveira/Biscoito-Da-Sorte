@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img alt="Biscoitodasorte" src="https://i.imgur.com/6RgoY09.png" width="49%">
-  <img alt="Biscoitodasorte" src="https://i.imgur.com/6FKCzqu.png" width="49%">
+  <img alt="Biscoitodasorte" src="https://i.imgur.com/nHWC6OT.png" width="49%">
+  <img alt="Biscoitodasorte" src="https://i.imgur.com/aeD0gbq.png" width="49%">
   
 </p>
 
